@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab845762.css",
+    "main.js": "/static/js/main.669c007a.js",
+    "static/js/488.f9972b8f.chunk.js": "/static/js/488.f9972b8f.chunk.js",
+    "static/media/connectimg.png": "/static/media/connectimg.1651633a5efb785f5887.png",
+    "static/media/header3.png": "/static/media/header3.2d20c11f39bf0c1b36d8.png",
+    "static/media/Thesis.jpg": "/static/media/Thesis.ae877e02ed6113b34e14.jpg",
+    "static/media/Landing Page.jpg": "/static/media/Landing Page.23ebde335614f6f2c663.jpg",
+    "static/media/Portfolio.jpg": "/static/media/Portfolio.47d57b72192c147ce782.jpg",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/todo1.jpg": "/static/media/todo1.d0e409c2b264a010f272.jpg",
+    "static/media/sorting.png": "/static/media/sorting.5eff969cbbcd8f4b7ddf.png",
+    "static/media/sgl.png": "/static/media/sgl.c3385580bb4b96b03756.png",
+    "static/media/dcll.webp": "/static/media/dcll.423fd1b4548e88e8277b.webp",
+    "static/media/arktechlogo.png": "/static/media/arktechlogo.5a8467f766265a42f395.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/btree.png": "/static/media/btree.90192a46622411c3d014.png",
+    "static/media/dll.png": "/static/media/dll.7d2d0e18838b95041991.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.ab845762.css.map": "/static/css/main.ab845762.css.map",
+    "main.669c007a.js.map": "/static/js/main.669c007a.js.map",
+    "488.f9972b8f.chunk.js.map": "/static/js/488.f9972b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab845762.css",
+    "static/js/main.669c007a.js"
+  ]
+}
